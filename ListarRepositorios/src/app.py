@@ -1,4 +1,4 @@
-from src.model.api_github import ListaDeRepositorios
+from ListarRepositorios.src.model.api_github import ListaDeRepositorios
 
 
 user_name = 'MeninoNias'
